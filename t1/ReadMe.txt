@@ -1,6 +1,6 @@
 ========================================================================
-    t2 CONSOLE APPLICATION : refrence Project Overview 
-	t2
+    t22 CONSOLE APPLICATION : refrence Project Overview 
+	t22
 ========================================================================
 
 AppWizard has created this refrence application for you.  
