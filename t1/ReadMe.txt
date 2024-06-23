@@ -1,12 +1,13 @@
 ========================================================================
     t2 CONSOLE APPLICATION : refrence Project Overview 
-	t23 add3
+	t24 add4
 ========================================================================
 
 AppWizard has created this refrence application for you.  
 This file contains a summary of what you will find in each of the files that
 make up your refrence application.
 
+add4
 
 refrence.vcproj
     This is the main project file for VC++ projects generated using an Application Wizard. 
