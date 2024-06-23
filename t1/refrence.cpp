@@ -22,5 +22,5 @@ int main() {
   cout << "x = " << x << ", a = " << a << endl;
   a++;
   cout << "x = " << x << ", a = " << a << endl;
-} ///:~t25
+} ///:~ t25
 
