@@ -1,12 +1,12 @@
 ========================================================================
-     t13 CONSOLE APPLICATION : refrence Project Overview
+     t-1 CONSOLE APPLICATION : refrence Project Overview
 ========================================================================
 
 AppWizard has created this refrence application for you.  
 This file contains a summary of what you will find in each of the files that
 make up your refrence application.
 
-t13
+t-1
 
 
 refrence.vcproj
