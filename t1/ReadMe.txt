@@ -1,6 +1,6 @@
 ========================================================================
     t2 CONSOLE APPLICATION : refrence Project Overview 
-	t24 add4
+	t24  add4
 ========================================================================
 
 AppWizard has created this refrence application for you.  
