@@ -1,5 +1,4 @@
 // refrence.cpp : Defines the entry point for the console application.
-//
 
 #include "stdafx.h"
 
@@ -22,5 +21,6 @@ int main() {
   cout << "x = " << x << ", a = " << a << endl;
   a++;
   cout << "x = " << x << ", a = " << a << endl;
-D
-} ///:~ t2
+
+} ///t11
+
